@@ -15,7 +15,15 @@ Supporting recovery from errors by rolling back changes.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
-
+Steps to set up a repository:
+Log in to GitHub.
+Click on the "New" button in the Repositories section.
+Enter a name for the repository.
+Add an optional description.
+Choose visibility: public or private.
+Initialize the repository with a README file (optional).
+Add a .gitignore file and select a license if needed.
+Click "Create Repository."
 
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
