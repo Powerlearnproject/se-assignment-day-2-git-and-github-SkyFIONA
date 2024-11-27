@@ -138,32 +138,9 @@ Use meaningful commit messages.
 Regularly sync with the main branch.
 Maintain an updated and detailed README.
 Use pull requests for code reviews.
-Let me know if any clarification is needed!
-
-
-
-
-
-
-You said:
-How do I create new repository on GitHub 
-ChatGPT said:
-ChatGPT
-Creating a new repository on GitHub is straightforward
-
-
-
-
-
-
-
-
-
-
-
-ChatGPT can make mista
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
+
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
